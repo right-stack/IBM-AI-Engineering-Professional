@@ -1,0 +1,3 @@
+[submodule "ML-with-Python"]
+	path = ML-with-Python
+	url = https://github.com/right-stack/ML-with-Python.git
