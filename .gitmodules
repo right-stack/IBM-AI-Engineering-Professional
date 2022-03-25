@@ -4,3 +4,6 @@
 [submodule "Intro-to-DL-with-Keras"]
 	path = Intro-to-DL-with-Keras
 	url = https://github.com/right-stack/Intro-to-DL-with-Keras.git
+[submodule "Intro-to-CV-and-Image-Processing"]
+	path = Intro-to-CV-and-Image-Processing
+	url = https://github.com/right-stack/Intro-to-CV-and-Image-Processing.git
