@@ -10,3 +10,6 @@
 [submodule "NN-with-Pytorch"]
 	path = NN-with-Pytorch
 	url = https://github.com/right-stack/NN-with-Pytorch.git
+[submodule "DL-with-TensorFlow"]
+	path = DL-with-TensorFlow
+	url = https://github.com/right-stack/DL-with-TensorFlow.git
