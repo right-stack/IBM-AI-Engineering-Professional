@@ -13,3 +13,6 @@
 [submodule "DL-with-TensorFlow"]
 	path = DL-with-TensorFlow
 	url = https://github.com/right-stack/DL-with-TensorFlow.git
+[submodule "AI-Capstone-Project"]
+	path = AI-Capstone-Project
+	url = https://github.com/right-stack/AI-Capstone-Project.git
