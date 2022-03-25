@@ -7,3 +7,6 @@
 [submodule "Intro-to-CV-and-Image-Processing"]
 	path = Intro-to-CV-and-Image-Processing
 	url = https://github.com/right-stack/Intro-to-CV-and-Image-Processing.git
+[submodule "NN-with-Pytorch"]
+	path = NN-with-Pytorch
+	url = https://github.com/right-stack/NN-with-Pytorch.git
